@@ -12,6 +12,7 @@
 招聘
 融资
 
+[WORD_GROUPS]
 Microsoft
 Google
 Meta
